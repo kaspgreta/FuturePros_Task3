@@ -9,4 +9,4 @@ In this application were defined three main tasks - accept array of digits, dete
 
 To find the most efficient path, there was used the Dijkstra algorithm, which helped to find the shortest path between the graphs. For graphs there was created a matrix, which was defined by 0 and 1 values. After initializing the matrix, the shortest path between the points of the matrix was searched.
 
-Application also stores all arrays and results into file. Later on user can ask to show all record as a list or individually using swtch statement. Application can accept a batch of arrays and process them all, too. It can not process all arrays and use already calculated results.
+Application also stores all arrays and results into file. Later on user can ask to show all record as a list or individually using swtch statement. Application can accept a batch of arrays and process them all, too. This application not processing all arrays, but uses already calculated results.
